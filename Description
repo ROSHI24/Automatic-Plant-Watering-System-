@@ -1,0 +1,14 @@
+As part of my Electrical and Electronics Engineering course, I worked on a team project to design and implement an Automatic Plant Watering System using Arduino Uno and a soil moisture sensor.
+The system monitors soil moisture levels in real time and automatically controls a relay-driven water pump. When the moisture level drops below a predefined threshold, the pump is activated to irrigate the plant. Once adequate moisture is reached, the system switches the pump off, ensuring efficient water usage and preventing overwatering.
+This project demonstrates the practical application of embedded systems and automation in sustainable irrigation, making it suitable for home gardens, and small-scale agricultural use.
+
+Technologies & Components Used:
+Arduino Uno, Soil Moisture Sensor, 5V Relay Module, Mini Submersible Water Pump, 9V Battery, Jumper Wires
+
+My Role & Learnings:
+I worked on Arduino, relay control, and understanding real-time automation based on sensor data. The project strengthened my fundamentals in embedded systems, hardware-software integration, and sustainable engineering solutions.
+My teammates
+Mrudubhashini CR, A.Anton Michael, Veda Varshini B, Tanisha Pavithrakumar, Ajay Raja G.
+
+Grateful for the teamwork and hands-on learning experience that turned into a working prototype.
+#Arduino #EmbeddedSystems #Automation #EngineeringProjects #EEE #ECE #IoT #SmartIrrigation
